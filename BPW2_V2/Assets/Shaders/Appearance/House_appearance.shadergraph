@@ -373,7 +373,7 @@
     },
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":-7336888071849104557,\"guid\":\"d4692b7e8b43ec14389a3f31d0ab5520\",\"type\":3}}",
             "m_Guid": ""
         }
     },
@@ -1419,9 +1419,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -8.00000286102295,
-            "y": -1262.0,
-            "width": 183.99998474121095,
+            "x": -7.9999589920043949,
+            "y": -1142.0,
+            "width": 184.0,
             "height": 253.0
         }
     },
@@ -2200,9 +2200,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -8.00000286102295,
-            "y": -965.9999389648438,
-            "width": 183.99998474121095,
+            "x": -7.9999589920043949,
+            "y": -889.0000610351563,
+            "width": 184.0,
             "height": 253.0
         }
     },
@@ -2567,9 +2567,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -7.999958515167236,
-            "y": -671.0,
-            "width": 183.99998474121095,
+            "x": -7.9999589920043949,
+            "y": -636.0,
+            "width": 184.0,
             "height": 253.0
         }
     },
